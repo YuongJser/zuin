@@ -7,4 +7,4 @@ router.get('/',function *(next){
 
 module.exports = {
     router:router
-}
+} 
